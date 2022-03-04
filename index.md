@@ -1,6 +1,6 @@
 
 # Cool Compiler
-This project is developed for SBU Compiler Design Course - Fall 2020 
+This project is developed for SBU Compiler Design Course - Fall 2021 
 
 
 
